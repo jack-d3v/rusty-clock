@@ -1,0 +1,12 @@
+/home/xredo/rusty-clock/target/debug/deps/libnotify-aa5a229b0c4b3918.rmeta: /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/lib.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/inotify.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/null.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/poll.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/config.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/error.rs
+
+/home/xredo/rusty-clock/target/debug/deps/libnotify-aa5a229b0c4b3918.rlib: /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/lib.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/inotify.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/null.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/poll.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/config.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/error.rs
+
+/home/xredo/rusty-clock/target/debug/deps/notify-aa5a229b0c4b3918.d: /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/lib.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/inotify.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/null.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/poll.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/config.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/error.rs
+
+/home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/lib.rs:
+/home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/inotify.rs:
+/home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/null.rs:
+/home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/poll.rs:
+/home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/config.rs:
+/home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-8.0.0/src/error.rs:

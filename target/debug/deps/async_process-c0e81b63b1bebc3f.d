@@ -1,0 +1,11 @@
+/home/xredo/rusty-clock/target/debug/deps/libasync_process-c0e81b63b1bebc3f.rmeta: /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/lib.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/unix.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/mod.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/wait.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/signal.rs
+
+/home/xredo/rusty-clock/target/debug/deps/libasync_process-c0e81b63b1bebc3f.rlib: /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/lib.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/unix.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/mod.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/wait.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/signal.rs
+
+/home/xredo/rusty-clock/target/debug/deps/async_process-c0e81b63b1bebc3f.d: /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/lib.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/unix.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/mod.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/wait.rs /home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/signal.rs
+
+/home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/lib.rs:
+/home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/unix.rs:
+/home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/mod.rs:
+/home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/wait.rs:
+/home/xredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-process-2.3.0/src/reaper/signal.rs:

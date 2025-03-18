@@ -1,0 +1,10 @@
+[package]
+name = "rusty-clock"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+text_io = "0.1.13"
+notify-rust = "4.11.5"
+clearscreen = "4.0.1"
+figlet-rs = "0.1.5"
