@@ -54,10 +54,10 @@ println!("{}", "=".repeat(width));
     match args.get(0) {
         Some(&"timer") => {
             print!("Pick a time in minutes: ");
-            let timer_input_seconds: u64 = read!();
+            let timer_input_seconds: f64 = read!();
             println!("Inputted: {}", timer_input_seconds);
-            let timer_input = timer_input_seconds * 60;
-            timer(timer_input);
+            let timer_input = timer_input_seconds * 60.0;
+            timer(timer_input as u64);
         }
 
 
